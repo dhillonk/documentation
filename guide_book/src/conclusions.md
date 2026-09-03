@@ -18,7 +18,6 @@ Security is non-optional: Real devices must layer in secure boot, signed updates
 ## The Bigger Horizon
 At this point, you’ve seen how ODP can model a working EC, build policies, and test integration. With those skills, the possibilities expand:
 
-- Create your own __virtual laptop__, combining EC, Patina firmware, and OS boot flows.
 - Port subsystems to a __real dev board__, exercising policies against physical sensors.
 - Extend the framework with __new domains__ (networking, storage, graphics).
 - Integrate into __enterprise workflows__, using ODP’s open approach to collaborate across OEMs.

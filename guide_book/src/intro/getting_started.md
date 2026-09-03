@@ -23,7 +23,7 @@ This documentation is designed to serve multiple audiences working with the Open
 |-------------------|-----------------------------------------------------------------------------|
 | __Firmware Engineer__ | Follow the documentation from start to finish. Includes technical tutorials, architectural insights, and integration exercises. |
 | __Technology Advisor__ | Read the mainline content through the [Architecture Overview](../architecture/architecture.md), skipping hands-on exercises as needed. |
-| __Integrator__        | Read the [Architecture Overview](../architecture/architecture.md), then continue to [Integrating the Virtual Laptop](../laptop/integrating.md). |
+| __Integrator__        | Read the [Architecture Overview](../architecture/architecture.md), then use [What is in ODP?](../what/what.md) to find the relevant implementation repositories. |
 | __Contributor__       | Review the value proposition and architecture sections, then use [What is in ODP?](../what/what.md) to find the relevant project repositories. |
 | __Security Reviewer__ | Start with the [Security Model](../architecture/security_architecture.md) and [Firmware Updates](../architecture/secure_firmware_updates.md). |
 | __Patina SDK (UEFI) Developer__ | Refer to external Patina resources: the [Patina Book](https://opendevicepartnership.github.io/patina/) for guides and concepts, and the [Patina source repository](https://github.com/opendevicepartnership/patina) for crates, code examples, and implementation notes. |  

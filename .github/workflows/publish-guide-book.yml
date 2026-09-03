@@ -29,19 +29,10 @@ jobs:
       - name: Prepare Output Folders
         run: |
           mkdir -p .temp/guide
-      - name: Install mdBook and Plugins
-        run: |
-          cargo install mdbook
-          cargo install mdbook-mermaid
-
-      - name: Prepare Output Folders
-        run: |
-          mkdir -p .temp/guide
 
       - name: Build Main Guide Book
         run: |
           cd guide_book
-          mdbook clean
           mdbook clean
           mdbook build
           cp -r book/* ../.temp/guide/

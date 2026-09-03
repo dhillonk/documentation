@@ -6,7 +6,8 @@ The overall ODP umbrella is quite large and encompassing, and can be tricky to n
 
 This document will briefly review the value proposition of ODP and why it is the right technology for the future of firmware development, at the right time.
 
-Then the different 'tracks' of ODP will be explained.  Here, you may find you are interested in only one of these tracks, or you may find you want to learn more about all of them.
+The guide introduces ODP's implementation scopes so you can focus on the
+firmware domains most relevant to your work.
 
 Then, what is inside ODP and where to find it is detailed further - this is a good resource for those simply wishing to navigate the maze of contributed repositories that are available and which ones fit together for a given task.
 
@@ -16,5 +17,4 @@ Finally, for developers wishing to know more about how all of this comes togethe
 These exercises can be explored per-component, or as a series that culminates in a working integration with a simulation application and test.
 
 You are in control of how you navigate through this guide, whether you proceed through it all one step at a time, or jump into the paths you find most compelling to your interest is entirely up to you.
-
 

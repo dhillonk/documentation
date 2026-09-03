@@ -19,7 +19,6 @@
     - [EC Services](./architecture/ec_services.md)
     - [Security Model](./architecture/security_architecture.md)
         - [Firmware Updates](./architecture/secure_firmware_updates.md)
-- [Tracks of ODP](./tracks.md)
 - [What is in ODP?](./what/what.md)
 - [Building a virtual laptop](./laptop/laptop.md)
     - [MPTF Example](./how/ec/thermal/mptf/mptf.md)

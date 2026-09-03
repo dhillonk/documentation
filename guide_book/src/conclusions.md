@@ -34,6 +34,4 @@ At this point, you’ve seen how ODP can model a working EC, build policies, and
 
 Return to the [ODP Documentation Home](../index.md) to explore more about the Open Device Partnership, or dive deeper into specific subsystems and components that interest you.
 
-Return to the [Tracks of ODP](../tracks.md) to revisit the various guided paths through the documentation and find the next topic that aligns with your interests or role.
-
 View the [ODP Embedded Controller specifications](https://github.com/OpenDevicePartnership/odp-embedded-controller/tree/main/docs/src/specs) to understand the standards and protocols that underpin the ODP framework.

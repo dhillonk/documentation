@@ -22,10 +22,10 @@ This documentation is designed to serve multiple audiences working with the Open
 |   Role            | Recommended Path                                                                 |
 |-------------------|-----------------------------------------------------------------------------|
 | __Firmware Engineer__ | Follow the documentation from start to finish. Includes technical tutorials, architectural insights, and integration exercises. |
-| __Technology Advisor__ | Read the mainline content through the [Architecture Overview](../architecture/architecture.md), skipping hands-on exercises as needed. |
-| __Integrator__        | Read the [Architecture Overview](../architecture/architecture.md), then use [What is in ODP?](../what/what.md) to find the relevant implementation repositories. |
-| __Contributor__       | Review the value proposition and architecture sections, then use [What is in ODP?](../what/what.md) to find the relevant project repositories. |
-| __Security Reviewer__ | Start with the [Security Model](../architecture/security_architecture.md) and [Firmware Updates](../architecture/secure_firmware_updates.md). |
+| __Technology Advisor__ | Read the mainline content through [Concepts](./concepts/Concepts.md), skipping hands-on exercises as needed. |
+| __Integrator__        | Read [Concepts](./concepts/Concepts.md), then use [What is in ODP?](../what/what.md) to find the relevant implementation repositories. |
+| __Contributor__       | Review the value proposition and introductory sections, then use [What is in ODP?](../what/what.md) to find the relevant project repositories. |
+| __Security Reviewer__ | Start with [Secure Trust](../why/secure_trust.md) and [Industry Standards](../why/standards.md). |
 | __Patina SDK (UEFI) Developer__ | Refer to external Patina resources: the [Patina Book](https://opendevicepartnership.github.io/patina/) for guides and concepts, and the [Patina source repository](https://github.com/opendevicepartnership/patina) for crates, code examples, and implementation notes. |  
 
 

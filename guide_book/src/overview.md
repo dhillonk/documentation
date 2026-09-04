@@ -1,4 +1,4 @@
-# Open Device Partnership (ODP) documentation guide
+# Open Device Partnership (ODP) documentation
 
 This document will briefly review the value proposition of ODP and why it is the right technology for the future of firmware development, at the right time.
 

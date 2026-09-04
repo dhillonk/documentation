@@ -6,5 +6,5 @@
     - [Developer Experience](./why/developer_experience.md)
     - [Sustainability and Cost](./why/sustainability.md)
     - [Industry Standards](./why/standards.md)
-- [What is in ODP?](./what/what.md)
+- [ODP Repositories](./what/repos.md)
 - [Summary and Takeaways](./conclusions.md)

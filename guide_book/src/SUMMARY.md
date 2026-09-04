@@ -1,4 +1,4 @@
-[ODP Documentation guide](./overview.md)
+[ODP Documentation](./overview.md)
 - [Why ODP?](./why/why.md)
     - [Secure Trust](./why/secure_trust.md)
     - [Modularity](./why/modular.md)

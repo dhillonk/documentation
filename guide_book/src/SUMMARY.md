@@ -1,6 +1,6 @@
 [ODP Documentation](./overview.md)
 - [Why ODP?](./why/why.md)
-    - [Secure Trust](./why/secure_trust.md)
+    - [Security](./why/secure_trust.md)
     - [Modularity](./why/modular.md)
     - [Cross-Domain Coherence](./why/cross_domain_coherence.md)
     - [Developer Experience](./why/developer_experience.md)
